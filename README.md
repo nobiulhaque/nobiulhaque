@@ -31,17 +31,9 @@ I believe in learning by building and growing one line of code at a time. This p
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=prome3heus&theme=tokyonight&hide_border=false" />
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=prome3heus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prome3heus&theme=tokyonight&layout=compact" />
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
