@@ -31,23 +31,23 @@ I believe in learning by building and growing one line of code at a time. This p
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false)
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" />
+
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prome3heus&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
