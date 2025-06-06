@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm Md. Nobiul Haque Riyad 👋</h1>
-<p align="center">🎓 CSE Student | 💻 Aspiring Web & AI Developer | 📍 Dhaka, Bangladesh</p>
+<h1 align="center">Hey there! I'm <span style="color:#00C8FF;">Md. Nobiul Haque Riyad</span> 👨‍💻</h1>
+<p align="center">🎓 Final Year CSE Student | 💻 Future Web & AI Developer | 📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=🎓+CSE+Student+at+Green+University+of+Bangladesh;💻+Aspiring+Web+Developer+%26+AI+Enthusiast" />
 </p>
+
 
 ---
 # 💫 About Me:
