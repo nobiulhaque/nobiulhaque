@@ -31,12 +31,11 @@ I believe in learning by building and growing one line of code at a time. This p
 ---
 
 # 📊 GitHub Stats:
-<div >  
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" />
-
 </div>
+
 
 ---
 
