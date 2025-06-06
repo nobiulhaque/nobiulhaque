@@ -2,8 +2,7 @@
 <p align="center">🎓 CSE Student | 💻 Web & AI Developer | 📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;🚀+From+Frontend+to+AI%2C+Solving+Challenges+One+Line+at+a+Time
-;💡+Exploring+Web+Development+and+AI;🌱+Always+learning%2C+always+growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;🚀+From+Frontend+to+AI%2C+Solving+Challenges+One+Line+at+a+Time;💡+Exploring+Web+Development+and+AI;🌱+Always+learning%2C+always+growing" />
 </p>
 
 ---
