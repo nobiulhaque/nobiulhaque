@@ -47,4 +47,20 @@ I believe in learning by building and growing one line of code at a time. This p
 
 ---
 
+## 📚 Currently Learning
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Natural Language Processing (NLP)
+- ⚛️ Full React.js Development (Hooks, Routing, State Management)
+- 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
+
+---
+
+## 🛠️ Previous Projects
+
+- ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting
+- 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits
+
+---
+
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ on anything you like.*
