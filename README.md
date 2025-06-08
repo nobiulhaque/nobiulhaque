@@ -36,11 +36,20 @@ I believe in learning by building and growing one line of code at a time. This p
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats Section -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="nobiulhaque GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="GitHub Stats" />
-</div>
+</p>
+
 
 <!-- Profile Views -->
 <p align="center">
