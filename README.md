@@ -50,7 +50,7 @@ I believe in learning by building and growing one line of code at a time. This p
 
 
 <!-- Profile Views -->
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
