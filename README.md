@@ -8,17 +8,19 @@
 
 ---
 
-# 💫 About Me:
+## 💫 About Me
 
-Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh** with a deep interest in **Web Development** and **Artificial Intelligence**.
+Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh**, deeply interested in **Web Development** and **Artificial Intelligence**.
 
-- 🎓 Final-year CSE undergraduate  
-- 💻 Currently exploring **React**, **Tailwind CSS**, and modern frontend ecosystems  
-- 🤖 Learning AI/ML with a focus on **NLP** and **Computer Vision**  
-- 🌐 I love building web apps that are clean, functional, and user-friendly  
-- 📍 Based in Dhaka, Bangladesh  
+- 🎓 **Final-year CSE undergraduate**
+- 💻 Exploring the world of **React**, **Tailwind CSS**, and modern frontend technologies  
+- 🤖 Learning and building projects with **Machine Learning**, especially in **NLP** and **Computer Vision**
+- 🌐 Love creating web applications that are **clean**, **functional**, and **user-focused**
+- 📍 Based in **Dhaka, Bangladesh**
+- 📧 Email: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
 
-I believe in learning by building and growing one line of code at a time. This profile is my space to share that journey.
+I believe in learning by doing — writing code, solving problems, and constantly pushing boundaries.  
+This GitHub profile is a reflection of my journey as I grow one project at a time.
 <br><br>
 
 <!-- Profile Views -->
@@ -31,8 +33,6 @@ I believe in learning by building and growing one line of code at a time. This p
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/549629479635386378)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/md.riyad.240271)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prome3heus@gmail.com)
-
 ---
 
 # 💻 Tech Stack:
