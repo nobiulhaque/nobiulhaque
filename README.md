@@ -78,10 +78,11 @@ This GitHub profile is a reflection of my journey as I grow one project at a tim
 
 ## 📚 Currently Learning
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Natural Language Processing (NLP)
-- ⚛️ Full React.js Development (Hooks, Routing, State Management)
-- 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
+- 📱 Cross-platform App Development with Flutter  
+- 🔥 Backend Integration using Firebase (Auth, Firestore, Storage)  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Natural Language Processing (NLP)  
+- 🧩 Exploring Dart Programming Language  
 
 ---
 
