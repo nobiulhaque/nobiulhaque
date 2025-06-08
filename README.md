@@ -14,6 +14,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh** with a deep interest in **Web Development** and **Artificial Intelligence**.
 
 - 🎓 Final-year CSE undergraduate  
