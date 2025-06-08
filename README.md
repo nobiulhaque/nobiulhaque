@@ -1,23 +1,22 @@
 <h1 align="center">Hey there! I'm <span style="color:#00C8FF;">Md. Nobiul Haque Riyad</span> 👨‍💻</h1>
-<p align="center">🎓 CSE Student | 💻 Web & AI Developer | 📍 Based in Dhaka, Bangladesh</p>
+<p align="center">🎓 CSE Student | 💻 App & AI Developer | 📱 Flutter Enthusiast | 📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;🚀+From+Full-Stack+to+AI%2C+Bringing+Ideas+to+Life;💡+Exploring+Web+Development%2C+AI%2C+and+Beyond;🌱+Always+Learning%2C+Always+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;🚀+From+Mobile+Apps+to+AI%2C+Bringing+Ideas+to+Life;💡+Exploring+App+Development%2C+AI%2C+and+Beyond;🌱+Always+Learning%2C+Always+Growing" />
 </p>
-
 
 ---
 
 ## 💫 About Me
 
-Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh**, deeply interested in **Web Development** and **Artificial Intelligence**.
+Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh**, deeply interested in **App Development** and **Artificial Intelligence**.
 
 - 🎓 **Final-year CSE undergraduate**
-- 💻 Exploring the world of **React**, **Tailwind CSS**, and modern frontend technologies  
-- 🤖 Learning and building projects with **Machine Learning**, especially in **NLP** and **Computer Vision**
-- 🌐 Love creating web applications that are **clean**, **functional**, and **user-focused**
+- 📱 Currently building cross-platform apps using **Flutter** & **Firebase**
+- 🤖 Learning and creating with **Machine Learning**, focusing on **NLP** and **Computer Vision**
+- 🧠 Passionate about developing **smart, user-friendly mobile apps**
 - 📍 Based in **Dhaka, Bangladesh**
-- 📧 Email: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
+- 📧 You can contact me at: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
 
 I believe in learning by doing — writing code, solving problems, and constantly pushing boundaries.  
 This GitHub profile is a reflection of my journey as I grow one project at a time.
