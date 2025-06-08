@@ -40,12 +40,14 @@ I believe in learning by building and growing one line of code at a time. This p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="GitHub Stats" />
 </p>
+
+
 
 <!-- Profile Views -->
 <p align="center">
