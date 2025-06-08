@@ -35,20 +35,17 @@ I believe in learning by building and growing one line of code at a time. This p
 ---
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<!-- GitHub Stats Section -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=G093-RIYAD&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G093-RIYAD&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="GitHub Stats" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="nobiulhaque" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobiulhaque&show_icons=true&locale=en&layout=compact" alt="nobiulhaque" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&locale=en" alt="nobiulhaque" /></p>
 
 ---
 
