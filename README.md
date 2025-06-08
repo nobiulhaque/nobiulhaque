@@ -29,10 +29,20 @@ This GitHub profile is a reflection of my journey as I grow one project at a tim
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/549629479635386378)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/md.riyad.240271)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233)
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://discord.com/users/549629479635386378">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/md.riyad.240271">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 💻 Tech Stack:
