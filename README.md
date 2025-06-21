@@ -55,11 +55,9 @@ This GitHub profile is a reflection of my journey as I grow one project at a tim
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nobiulhaque&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false&locale=en" alt="GitHub Stats"/>
 </p>
