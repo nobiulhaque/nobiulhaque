@@ -2,7 +2,7 @@
 <p align="center">🎓 CSE Student | 💻 App & AI Developer | 📱 Flutter Enthusiast | 📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;🚀+From+Mobile+Apps+to+AI%2C+Bringing+Ideas+to+Life;💡+Exploring+App+Development%2C+AI%2C+and+Beyond;🌱+Always+Learning%2C+Always+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;" />
 </p>
 
 ---
