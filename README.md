@@ -11,8 +11,8 @@
 
 Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh**, deeply interested in **App Development** and **Artificial Intelligence**.
 
-- 🎓 **Final-year CSE undergraduate**
-- 📱 Currently building cross-platform apps using **Flutter** & **Firebase**
+- 🎓 **Jr Flutter Dev At SM Tech**
+- 📱 Currently building cross-platform apps using **Flutter**.
 - 🤖 Learning and creating with **Machine Learning**, focusing on **NLP** and **Computer Vision**
 - 🧠 Passionate about developing **smart, user-friendly mobile apps**
 - 📍 Based in **Dhaka, Bangladesh**
