@@ -149,8 +149,32 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 <img align="right" alt="coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
-- ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting.
-- 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits.
+### 📄 Resume Scanner
+> An AI-powered resume analysis tool that scans resumes, extracts key information and matches candidates to job descriptions using NLP.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Machine%20Learning-orange?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🏟️ Multi Role Sports Management App
+> A full-featured sports management platform supporting multiple roles (admin, player, coach, referee) for managing tournaments, teams, and match schedules.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+
+### ✍️ AI-Powered Text Optimizer
+> A smart writing assistant for grammar correction, style improvement, and content rewriting powered by AI.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
+
+### 🔢 Handwritten Digit Recognizer
+> A deep learning model using CNNs to classify handwritten Bangla & English digits with high accuracy.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-red?style=flat-square)
 
 <br clear="both" />
 
