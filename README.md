@@ -147,7 +147,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 ## 🛠️ Featured Projects
 
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
 - ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting.
 - 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits.
