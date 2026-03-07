@@ -28,7 +28,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nobiulhaque&theme=tokyonight&no-bg=true&column=7" alt="Github Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nobiulhaque&theme=tokyonight&margin-w=15&no-bg=true" alt="Github Trophies" />
 </p>
 
 <!-- Profile Views -->
@@ -41,9 +41,9 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nobiul-haque-riyad-52a215233" height="40" width="50" /></a>
-<a href="https://www.facebook.com/md.riyad.240271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.riyad.240271" height="40" width="50" /></a>
-<a href="mailto:prome3heus@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prome3heus" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/md.riyad.240271" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:prome3heus@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
