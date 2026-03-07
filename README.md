@@ -1,8 +1,15 @@
-<h1 align="center">Hey there! I'm <span style="color:#00C8FF;">Md. Nobiul Haque Riyad</span> 👨‍💻</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=200&section=header&text=Md.%20Nobiul%20Haque%20Riyad&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Animated%20Header/Coding.gif?raw=true" width="100%" />
+</p>
+
 <p align="center">🎓 CSE Student | 💻 App & AI Developer | 📱 Flutter Enthusiast | 📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+Welcome+to+my+GitHub!;💻+I+build+apps+with+Flutter;🤖+I+explore+AI+and+Machine+Learning;🚀+Always+learning+new+technologies!;" />
 </p>
 
 ---
@@ -13,14 +20,16 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 - 🎓 **Jr Flutter Dev**
 - 📱 Currently building cross-platform apps using **Flutter**.
-- 🤖 Learning and creating with **Machine Learning**, focusing on **NLP** and **Computer Vision**
-- 🧠 Passionate about developing **smart, user-friendly mobile apps**
-- 📍 Based in **Dhaka, Bangladesh**
+- 🤖 Learning and creating with **Machine Learning**, focusing on **NLP** and **Computer Vision**.
+- 🧠 Passionate about developing **smart, user-friendly mobile apps**.
+- 📍 Based in **Dhaka, Bangladesh**.
 - 📧 You can contact me at: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
 
-I believe in learning by doing — writing code, solving problems, and constantly pushing boundaries.  
-This GitHub profile is a reflection of my journey as I grow one project at a time.
-<br><br>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nobiulhaque&theme=tokyonight&no-bg=true&column=7" alt="Github Trophies" />
+</p>
 
 <!-- Profile Views -->
 <p align="right">
@@ -29,61 +38,119 @@ This GitHub profile is a reflection of my journey as I grow one project at a tim
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/md.riyad.240271">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nobiul-haque-riyad-52a215233" height="40" width="50" /></a>
+<a href="https://www.facebook.com/md.riyad.240271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.riyad.240271" height="40" width="50" /></a>
+<a href="mailto:prome3heus@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prome3heus" height="40" width="50" /></a>
 </p>
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 💻 Tech Stack
+
+### 🛠 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🤖 AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+### 🗄️ Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobiulhaque&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/nobiulhaque/nobiulhaque/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- 📱 Cross-platform App Development with Flutter  
-- 🔥 Backend Integration using Firebase (Auth, Firestore, Storage)  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Natural Language Processing (NLP)  
-- 🧩 Exploring Dart Programming Language  
+- 📱 Advanced Cross-platform App Development with **Flutter**
+- 🔥 Backend Architecture & Scalability
+- 🤖 Artificial Intelligence & **Deep Learning**
+- 🧠 Natural Language Processing (**NLP**)
+- 🧩 Mastering **Dart** Performance Optimization
 
 ---
 
-## 🛠️ Previous Projects
+## 🛠️ Featured Projects
 
-- ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting
-- 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits
+- ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting.
+- 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=100&section=footer" width="100%" />
+</p>
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and drop a ⭐ on anything you like.*
+
