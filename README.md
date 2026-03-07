@@ -16,6 +16,8 @@
 
 ## 💫 About Me
 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
 Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student at **Green University of Bangladesh**, deeply interested in **App Development** and **Artificial Intelligence**.
 
 - 🎓 **Jr Flutter Dev**
@@ -25,7 +27,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 - 📍 Based in **Dhaka, Bangladesh**.
 - 📧 You can contact me at: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
 
-<br>
+<br clear="both" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nobiulhaque&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -49,6 +51,10 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 ---
 
 # 💻 Tech Stack
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+</p>
 
 ### 🛠 Languages & Frameworks
 <p align="left">
@@ -141,10 +147,24 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 ## 🛠️ Featured Projects
 
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
+
 - ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting.
 - 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits.
 
+<br clear="both" />
+
 ---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="100" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=100&section=footer" width="100%" />
