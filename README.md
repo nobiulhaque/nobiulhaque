@@ -147,7 +147,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 ## 🛠️ Featured Projects
 
-<img align="right" alt="coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" />
+<img align="right" alt="coding" width="300" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
 - ✍️ **AI-Powered Text Optimizer** – Built a tool for grammar correction and content rewriting.
 - 🔢 **Handwritten Digit Recognizer** – Used CNNs to classify Bangla & English digits.
