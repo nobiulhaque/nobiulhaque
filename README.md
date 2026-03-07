@@ -28,7 +28,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nobiulhaque&theme=tokyonight&margin-w=15&no-bg=true" alt="Github Trophies" />
+  <img src="https://streak-stats.demolab.com?user=nobiulhaque&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <!-- Profile Views -->
@@ -104,15 +104,13 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 ## 📊 Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiulhaque&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobiulhaque&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobiulhaque&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -125,8 +123,11 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 ---
 
 ## 🐍 Contribution Snake
+
+> ⚠️ **To activate**: Go to your repository → **Actions** tab → Run the **"Generate Snake"** workflow manually once. A new `output` branch will be created and this will animate automatically!
+
 <p align="center">
-  <img src="https://github.com/nobiulhaque/nobiulhaque/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nobiulhaque/nobiulhaque/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
