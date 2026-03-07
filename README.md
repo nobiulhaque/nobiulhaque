@@ -124,10 +124,8 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a passionate Computer Science student a
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **To activate**: Go to your repository → **Actions** tab → Run the **"Generate Snake"** workflow manually once. A new `output` branch will be created and this will animate automatically!
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nobiulhaque/nobiulhaque/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nobiulhaque/nobiulhaque/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
