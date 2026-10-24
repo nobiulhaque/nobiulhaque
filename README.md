@@ -199,7 +199,7 @@ Hi! I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 ## ⚡ Daily Dose of Dev Humor & Wisdom
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=00c8ff&qColor=38bdf8" alt="Daily Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%231a1b27&qColor=%23ffffff&aColor=%2300c8ff&borderColor=%2300c8ff" alt="Daily Dev Joke" />
 </p>
 
 <p align="center">
