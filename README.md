@@ -7,15 +7,19 @@
 </p>
 
 <p align="center">
-  <b>🎓 CSE Graduate &nbsp;|&nbsp; 📱 Flutter & Mobile App Developer &nbsp;|&nbsp; 🤖 AI & ML Explorer &nbsp;|&nbsp; 📍 Dhaka, Bangladesh</b>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <b>&nbsp;Hey there, fellow coder! Welcome to my digital playground!&nbsp;</b>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+profile!;%F0%9F%93%B1+Building+cross-platform+apps+with+Flutter+%26+Dart;%F0%9F%A4%96+Exploring+Artificial+Intelligence+%26+Machine+Learning;%F0%9F%9A%80+Crafting+smart%2C+scalable%2C+and+user-friendly+solutions!;%F0%9F%94%A7+Always+learning%2C+building%2C+and+pushing+boundaries!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00C8FF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi+there!+Welcome+to+my+GitHub+profile!;%F0%9F%93%B1+Building+cross-platform+apps+with+Flutter+%26+Dart;%F0%9F%A4%96+Exploring+Artificial+Intelligence+%26+Machine+Learning;%F0%9F%9A%80+Turning+coffee+into+clean+code+%26+cool+apps!;%F0%9F%94%A7+Always+learning%2C+building%2C+and+pushing+boundaries!;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20Views&color=00C8FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-In%20The%20Zone-00C8FF?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fueled%20by-Coffee%20%26%20Curiosity-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=nobiulhaque&label=Profile%20Views&color=00C8FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -24,20 +28,20 @@
 
 <img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering graduate passionate about crafting polished cross-platform applications and integrating intelligent AI/ML models.
+Hi! I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering graduate on a mission to build slick, high-performance mobile apps and craft practical AI/ML solutions.
 
-- 📱 **Mobile Development**: Building sleek, performant apps with **Flutter** & **Dart**.
-- 🤖 **AI & Machine Learning**: Developing predictive models and intelligent workflows using **Python**, **NLP**, and **Computer Vision**.
-- 🚀 **Full-Stack & Cloud**: Integrating cloud backends with **Firebase**, **REST APIs**, and modern web architectures.
-- 💡 **Philosophy**: Clean architecture, responsive design, and delightful user experiences.
-- 📍 **Location**: Dhaka, Bangladesh.
-- 📬 **Email**: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
+- 📱 **Mobile Wizardry**: Bringing fluid 60fps experiences to life using **Flutter** & **Dart**.
+- 🤖 **AI Playground**: Experimenting with **Natural Language Processing**, **Computer Vision**, and **Deep Learning**.
+- 🚀 **Full-Stack Craft**: Connecting reactive frontends with modern cloud backends like **Firebase** & **REST APIs**.
+- 🎮 **Philosophy**: *"If it doesn't spark joy or run smoothly, refactor it!"*
+- 📍 **Based in**: Dhaka, Bangladesh.
+- 📬 **Reach out**: [prome3heus@gmail.com](mailto:prome3heus@gmail.com)
 
 <br clear="both" />
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect & Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-nobiul-haque-riyad-52a215233" target="_blank">
@@ -56,7 +60,11 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 
 ---
 
-## 💻 Tech Stack
+## 💻 My Tech Arsenal
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Tech Stack Animation" />
+</p>
 
 ### 📱 Mobile & Core Languages
 <p align="left">
@@ -99,7 +107,7 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-### 🎨 Design & Workflow Tools
+### 🎨 Creative Tools & Environment
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -111,7 +119,11 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Activity & Performance
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="220" alt="Coder Typing" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nobiulhaque&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -124,15 +136,20 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake Game
 
 <p align="center">
+  <i>Watch the snake eat up my GitHub commits! 🎮</i><br/><br/>
   <img src="https://raw.githubusercontent.com/nobiulhaque/nobiulhaque/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 🛠️ Featured Projects
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="Coding Setup" />
+</p>
 
 <table>
   <tr>
@@ -179,7 +196,11 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 
 ---
 
-### ✍️ Random Dev Quote
+## ⚡ Daily Dose of Dev Humor & Wisdom
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=00c8ff&qColor=38bdf8" alt="Daily Dev Joke" />
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
@@ -187,14 +208,18 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 
 ---
 
+## 🐾 The Mascot Squad
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="90" />
-  <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="90" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05c6a71a-0566-45aa-bc3f-f258ab12e491.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649443-702212b5-2704-4b2c-8ab0-38bf536a0d41.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="85" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" width="85" />
 </p>
 
 <p align="center">
@@ -202,5 +227,5 @@ Hi, I’m **Md. Nobiul Haque Riyad** — a Computer Science & Engineering gradua
 </p>
 
 <p align="center">
-  ⭐ <i>Thanks for stopping by! Feel free to explore my repositories, open an issue, or drop a star if you find something helpful.</i>
+  ⭐ <i>Thanks for stopping by! Star any repo you like or drop a hello!</i>
 </p>
